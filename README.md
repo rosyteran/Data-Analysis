@@ -1,11 +1,18 @@
-## Music Taste and Self-Reported Mental Health (EXCEL)
+## Mobile Company Market Comparison Dashboard
 
-## Project description
-Music Taste and Self-Reported Mental Health
+## Technologies:** Python, Pandas, Matplotlib, Plotly, Excel
 
-Music therapy, or TM, is the use of music to improve a person's stress, mood, and overall mental health. TM is also recognized as an evidence-based practice, using music as a catalyst for "happy" hormones such as oxytocin.
+## Project Description: Built an interactive dashboard for comparing mobile processor performance across major device manufacturers including Apple, Qualcomm, Samsung and MediaTek. The dashboard provides market share breakdowns and benchmark comparisons across key metrics like CPU cores, clock speeds, GPU capabilities and AI acceleration.
 
-However, MT employs a wide range of different genres, which vary from organization to organization.
-The MxMH dataset aims to identify what, if any, correlations exist between an individual's taste in music and their self-reported mental health. Ideally, these findings could contribute to a more informed application of TM or simply provide interesting insights into the mind.
+## Skills and Deliverables
 
-With the help of auxiliary tables (Sum of hours by platforms, mental illnesses by platform), formulas (count, sum.if, average) and functions (lookup, match, if.set), views in class are able to highlight the most important data. important in the Dashboard.
+- Aggregated and processed device specs data from industry sources into Pandas DataFrames
+- Conducted analysis to quantify company market share by device cores shipped
+- Visualized market share breakdowns using Matplotlib charts and plots
+- Analyzed CPU, GPU and AI performance indicators by core configuration
+- Created interactive Plotly charts to compare chip vendors across clock speeds, GPU scores etc.
+- Developed Streamlit web app with filters to showcase key performance analytics dashboards and trends
+- Documented product recommendations and gap analysis for leadership strategy planning
+
+This mobile chipset benchmarking dashboard enables interactively comparisons across 30+ performance metrics by filterable vendor, core configuration and OS attributes. Automation ensures the competitive analysis is refreshed weekly with minimal overhead.
+
