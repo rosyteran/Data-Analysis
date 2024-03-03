@@ -1,8 +1,12 @@
-## Mobile Company Market Comparison Dashboard
+### Mobile Company Market Comparison Dashboard
 
-## Technologies:** Python, Pandas, Matplotlib, Plotly, Excel
+## Technologies:
 
-## Project Description: Built an interactive dashboard for comparing mobile processor performance across major device manufacturers including Apple, Qualcomm, Samsung and MediaTek. The dashboard provides market share breakdowns and benchmark comparisons across key metrics like CPU cores, clock speeds, GPU capabilities and AI acceleration.
+Python, Pandas, Matplotlib, Plotly, Excel
+
+## Project Description: 
+
+Built an interactive dashboard for comparing mobile processor performance across major device manufacturers including Apple, Qualcomm, Samsung and MediaTek. The dashboard provides market share breakdowns and benchmark comparisons across key metrics like CPU cores, clock speeds, GPU capabilities and AI acceleration.
 
 ## Skills and Deliverables
 
